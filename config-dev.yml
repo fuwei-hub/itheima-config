@@ -11,3 +11,4 @@ spring:
   application:
     name: eureka-provider
 
+itheima: fuwei
