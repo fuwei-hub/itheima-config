@@ -1,6 +1,5 @@
 server:
   port: 8002
-itheima:fuwei
 
 eureka:
   instance:
@@ -11,3 +10,4 @@ eureka:
 spring:
   application:
     name: eureka-provider
+
